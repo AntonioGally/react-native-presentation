@@ -55,10 +55,5 @@ src: ./pages/rn-architecture/index.md
 
 ---
 transition: fade-out
-src: ./pages/rn-cli.md
----
-
----
-transition: fade-out
-src: ./pages/expo-cli.md
+src: ./pages/project-cli.md
 ---
