@@ -55,5 +55,12 @@ src: ./pages/rn-architecture/index.md
 
 ---
 transition: fade-out
-src: ./pages/project-cli.md
+src: ./pages/performance/index.md
+---
+
+---
+transition: fade-out
+src: ./pages/finalization/index.md
+layout: image-left
+image: /assets/me.png
 ---

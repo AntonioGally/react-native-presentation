@@ -85,5 +85,9 @@ O fabric é dividido em: Render, Commit e Mount
 ---
 transition: fade-out
 ---
-### Recap
-<img src='/assets/rn-architecture/fabric/fabric_diagram.jpg' class='w-full' />
+### E agora?
+
+<div class='flex justify-between items-center h-full'>
+    <img src='/assets/rn-architecture/bridge_image.png' class='w-100'/>
+    <img src='/assets/rn-architecture/fabric_image.png' class='w-100'/>
+</div>
