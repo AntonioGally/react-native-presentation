@@ -62,5 +62,5 @@ src: ./pages/performance/index.md
 transition: fade-out
 src: ./pages/finalization/index.md
 layout: image-left
-image: ./assets/me.png
+image: https://media.licdn.com/dms/image/D4D03AQGsaww0NnQJVg/profile-displayphoto-shrink_800_800/0/1676170256661?e=1706140800&v=beta&t=6a6gSoclLeDgvwPvAUEL6xO1-RveuXWrnFQZ0ysd0A4
 ---
