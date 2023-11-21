@@ -1,5 +1,7 @@
 # Obrigado!
 
+<img style='display:none;' src='/assets/me.png' />
+
 <li>
     <span style='font-size: 18px'>
         <mdi-linkedin /> <a href='https://www.linkedin.com/in/antonio-gally/'>linkedin.com/in/antonio-gally/</a>
