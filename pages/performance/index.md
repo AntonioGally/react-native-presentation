@@ -28,7 +28,7 @@ Falando sobre aplicativos performáticos, precisamos entender alguns pontos:
 ---
 transition: fade-out
 layout: image-left
-image: ./assets/performance/performance_metric_gpt.png
+image: https://iili.io/Jo2HvGj.md.png
 ---
 
 ## O que é performance nos aplicativos?
@@ -119,7 +119,7 @@ Ferramentas do Xcode
 ---
 transition: fade-out
 layout: image-left
-image: ./assets/performance/performance_gpt.png
+image: https://iili.io/Jo2Hqp1.png
 ---
 
 ## Quais soluções nós temos?
