@@ -62,5 +62,5 @@ src: ./pages/performance/index.md
 transition: fade-out
 src: ./pages/finalization/index.md
 layout: image-left
-image: /assets/me.png
+image: ./assets/me.png
 ---
